@@ -1,0 +1,1 @@
+﻿select * from tblCounter order by [Count]
